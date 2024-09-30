@@ -1,2 +1,1 @@
-echo "Это тестовый файл" > test.sh
-Дополнительный контент
+echo "echo Hello from dev!" > test.sh
