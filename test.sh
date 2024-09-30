@@ -1,1 +1,1 @@
-echo 'Change from main branch'
+echo 'Change from conflict branch'
